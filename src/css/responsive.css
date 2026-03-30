@@ -46,6 +46,7 @@
              "testimonial-user-3 testimonial-user-4 testimonial-user-4 testimonial-user-5"
 
          ;
+         row-gap: var(--spacing-300, 24px);
      }
 
      .testimonial-purple {
