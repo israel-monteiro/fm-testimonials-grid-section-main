@@ -33,13 +33,11 @@
 
      }
 
-     .testimonials {
-         margin-inline: 0;
-     }
 
      .testimonials {
          width: 100%;
          max-width: var(--max-width);
+         margin-inline: 0;
 
          display: grid;
          grid-template-columns: repeat(4, 1fr);
